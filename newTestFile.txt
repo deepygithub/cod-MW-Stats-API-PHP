@@ -1,4 +1,6 @@
 feature
 feature
-new_feature
 another_feature
+more_features
+dev_feature
+test_feature
