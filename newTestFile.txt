@@ -6,3 +6,4 @@ dev_feature
 test_feature
 prod_feature
 awesome_feature
+nice_feature
