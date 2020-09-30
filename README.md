@@ -1,4 +1,4 @@
-# cod-API-PHP
+# cod-MW-Stats-API-PHP
 Access the cod API with PHP
 
 This Project is not production ready.
